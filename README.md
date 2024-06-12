@@ -1,5 +1,3 @@
-[![Build](https://github.com/rizwan-r-r/AndroidoCli/actions/workflows/debug_build.yml/badge.svg)](https://github.com/rizwan-r-r/AndroidoCli/actions/workflows/debug_build.yml)
-
 # Termux application
 
 [![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/termux/termux-app/actions)
